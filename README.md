@@ -1,6 +1,10 @@
 # Document-Similarity
 Project: Comparing the Quran, bible, and Tanakh using Natural Language Processing, python, data mining, and machine learning
-Project Manager: Farhana Akter, PhD, Certified IBM Data Science Professional 
+
+
+Project Manager: Farhana Akter, PhD, Certified IBM Data Science Professional
+
+
 Research Team: AIsoftsolution
 
 The Aim Of The Project:
