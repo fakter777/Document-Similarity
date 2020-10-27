@@ -35,7 +35,7 @@ Distance finding: Cosine similarity
 
 Similarity Result Between Quran, Tanakh, And Bible:
 
-This heat map shows us that the Quran and King James bible has a 69% similarity between them. 
+This heat map shows us that the Quran and King James bible have a 69% similarity between them. 
 
 The following heat map shows us that Tanakh and King James bible have a 38% similarity between them.
 
